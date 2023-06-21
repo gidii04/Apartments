@@ -262,6 +262,7 @@ a {
   padding: 6px 12px;
   color: #fff;
   font-size: 16px;
+  white-space: nowrap;
 }
 
 .news-container {
@@ -305,6 +306,7 @@ a {
   justify-content: center;
   align-items: center;
   padding: 20px;
+  margin-bottom: 50px;
 }
 
 .sm {
@@ -340,6 +342,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-top: 30px;
 }
 .picture {
   width: 50px;
