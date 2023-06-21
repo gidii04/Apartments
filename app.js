@@ -8,3 +8,4 @@ mobileBar.addEventListener('click', () => {
 closeBar.addEventListener('click', () => {
   mobileOverlay.classList.remove('show-mobile-overlay')
 })
+b
